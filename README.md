@@ -39,5 +39,6 @@ This is a simple console-based banking application written in Java. It simulates
 6.  Select **Option 5** to see your transaction history.
 
 ## Screenshots
-*(Place your screenshot here)*
+<img width="353" height="471" alt="image" src="https://github.com/user-attachments/assets/afa13cc6-5991-426b-bc71-cdfe007a0fb3" />
+
 ![Console Output](link-to-image.png)
